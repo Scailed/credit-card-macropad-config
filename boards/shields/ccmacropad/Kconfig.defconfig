@@ -1,0 +1,6 @@
+if SHIELD_CCMACROPAD
+
+config ZMK_KEYBOARD_NAME
+    default "ccmacropad"
+
+endif # SHIELD_CCMACROPAD
